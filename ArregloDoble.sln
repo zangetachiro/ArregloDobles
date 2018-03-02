@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArreglosParte2", "ArreglosParte2\ArreglosParte2.csproj", "{A8F974B0-4EBA-4668-B724-FFB9382862EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArregloMetodo", "ArregloMetodo\ArregloMetodo.csproj", "{68138F8A-E700-4C96-908A-7C624444CFDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8F974B0-4EBA-4668-B724-FFB9382862EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8F974B0-4EBA-4668-B724-FFB9382862EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8F974B0-4EBA-4668-B724-FFB9382862EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8F974B0-4EBA-4668-B724-FFB9382862EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68138F8A-E700-4C96-908A-7C624444CFDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68138F8A-E700-4C96-908A-7C624444CFDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68138F8A-E700-4C96-908A-7C624444CFDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68138F8A-E700-4C96-908A-7C624444CFDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B69227BE-6350-4139-9824-741757E14EBC}
+	EndGlobalSection
+EndGlobal
